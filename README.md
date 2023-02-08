@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hola a todos🥳. Mi nombre es Ricardo.
 
-<!--
-**rica999/rica999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy diseñador y maquetador frontend. Además estoy especializandome en programador frontend con JavaScript y sus framework o liberías como Vue o React.
 
-Here are some ideas to get you started:
+Además soy analista de datos, ya que cuento con conocimiento en Excel y Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![frontend](https://user-images.githubusercontent.com/68082868/217403690-c5683e35-87ce-4bbf-ade5-bda2a3a7c2cd.png)
+
+Adjunto mi curriculum para más detalle. 😁
+
+
+Egresado de la carrera de Ing. Sistemas. Con ganas de constante aprendizaje y empeño en las responsabilidades que tenga.  Adaptable y trabajo en equipo. <strong>¡GANAS DE CRECER Y HACER HISTORIA!</strong>
+
+Manejo de inglés Intermedio.
+
+Mucho gusto con todos.
+
+![historia frase](https://user-images.githubusercontent.com/68082868/217404100-07efca84-c8e2-4fea-af8e-42a2fc8f544d.jpg)
+
