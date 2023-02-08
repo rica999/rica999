@@ -1,5 +1,7 @@
 ### Hola a todos🥳. Mi nombre es Ricardo.
 
+<a href="https://www.linkedin.com/in/ricardo-alfonso-549062192/"><img src="https://opem.b-cdn.net/wp-content/uploads/2016/02/linkedin5-150x150.png" width="50px" height="50px"></a>
+
 Soy diseñador y maquetador frontend. Además estoy especializandome en programador frontend con JavaScript y sus framework o liberías como Vue o React.
 
 Además soy analista de datos, ya que cuento con conocimiento en Excel y Power BI.
