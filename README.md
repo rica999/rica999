@@ -8,7 +8,7 @@ Además soy analista de datos, ya que cuento con conocimiento en Excel y Power B
 
 ![frontend](https://user-images.githubusercontent.com/68082868/217403690-c5683e35-87ce-4bbf-ade5-bda2a3a7c2cd.png)
 
-Adjunto mi curriculum para más detalle. 😁
+Adjunto mi <a href="https://drive.google.com/file/d/1uKukfSqFItM8ENT2vfab68s6kJd9TB2w/view?usp=sharing">curriculum</a> para más detalle. 😁
 
 
 Egresado de la carrera de Ing. Sistemas. Con ganas de constante aprendizaje y empeño en las responsabilidades que tenga.  Adaptable y trabajo en equipo. <strong>¡GANAS DE CRECER Y HACER HISTORIA!</strong>
